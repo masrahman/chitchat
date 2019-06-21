@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chit Chat</string>
+    <string name="givemeyourname">Give me your name</string>
+    <string name="submit">Mulai</string>
+    <string name="message">Tulis Pesan ...</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+</resources>
