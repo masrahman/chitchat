@@ -5,4 +5,22 @@
     <string name="message">Tulis Pesan ...</string>
     <string name="name">Nama</string>
     <string name="email">Email</string>
+    <string name="isianbelumlengkap">Isian belum lengkap</string>
+    <string name="isLogin">isLogin</string>
+    <string name="users">users</string>
+    <string name="emaildannamatidaksesuai">Email dan Nama tidak sesuai</string>
+    <string name="emailvalue">email</string>
+    <string name="namevalue">name</string>
+    <string name="createdatvalue">createdAt</string>
+    <string name="terjadikesalahan">Terjadi kesalahan saat memuat data</string>
+    <string name="ok">Ok</string>
+    <string name="pesankosong">Pesan kosong</string>
+    <string name="userId">userId</string>
+    <string name="messagevalue">messages</string>
+    <string name="token">token</string>
+    <string name="channelId">channel_id</string>
+    <string name="dateType">dataType</string>
+    <string name="chats">chats</string>
+    <string name="gagalmengirim">Gagal mengirim message</string>
+    <string name="emailtidakvalid">Email tidak sesuai</string>
 </resources>

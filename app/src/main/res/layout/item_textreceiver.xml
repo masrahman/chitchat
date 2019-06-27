@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_marginTop="8dp"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+    <TextView
+            android:id="@+id/txtName"
+            android:textSize="14sp"
+            android:text="Rahman Hardianto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    <LinearLayout
+            android:layout_below="@id/txtName"
+            android:id="@+id/layout"
+            android:padding="10dp"
+            android:background="@drawable/bg_abu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <TextView
+                android:id="@+id/txtMessage"
+                android:textColor="@android:color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <TextView
+            android:id="@+id/txtDateTime"
+            android:layout_below="@id/layout"
+            android:textColor="#686868"
+            android:text="00:00"
+            android:textSize="10sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+</RelativeLayout>
